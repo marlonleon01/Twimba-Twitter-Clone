@@ -1,10 +1,10 @@
 # Twimba-Twitter-Clone
 
 ## Description
--I created this to practice my javascript
--Twitter Clone
--It helped me learn how to use event delegation
--It also helped me practice looping through arrays to display data dynamically with javascript
+-I created this to practice my javascript   
+-Twitter Clone   
+-It helped me learn how to use event delegation  
+-It also helped me practice looping through arrays to display data dynamically with javascript  
 
 ## Required
 -Code editor (Visual Studio Code recommended)  
